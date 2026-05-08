@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { motion, AnimatePresence } from 'motion/react';
+import { motion, AnimatePresence } from 'framer-motion';
 import { Ruler, Palette, Key, Check, ArrowRight, ArrowLeft, Send } from 'lucide-react';
 
 const steps = [

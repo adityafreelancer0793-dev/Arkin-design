@@ -1,6 +1,6 @@
 'use client';
 
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 
 const stats = [
   { value: '119+', label: 'Client Reviews' },
